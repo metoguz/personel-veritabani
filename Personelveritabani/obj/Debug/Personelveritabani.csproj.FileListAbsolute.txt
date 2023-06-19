@@ -1,0 +1,15 @@
+C:\Users\Melih Metin\source\repos\ATM\Personelveritabani\bin\Debug\Personelveritabani.exe.config
+C:\Users\Melih Metin\source\repos\ATM\Personelveritabani\bin\Debug\Personelveritabani.exe
+C:\Users\Melih Metin\source\repos\ATM\Personelveritabani\bin\Debug\Personelveritabani.pdb
+C:\Users\Melih Metin\source\repos\ATM\Personelveritabani\obj\Debug\Personelveritabani.csproj.AssemblyReference.cache
+C:\Users\Melih Metin\source\repos\ATM\Personelveritabani\obj\Debug\Personelveritabani.csproj.SuggestedBindingRedirects.cache
+C:\Users\Melih Metin\source\repos\ATM\Personelveritabani\obj\Debug\Personelveritabani.Properties.Resources.resources
+C:\Users\Melih Metin\source\repos\ATM\Personelveritabani\obj\Debug\Personelveritabani.csproj.GenerateResource.cache
+C:\Users\Melih Metin\source\repos\ATM\Personelveritabani\obj\Debug\Personelveritabani.csproj.CoreCompileInputs.cache
+C:\Users\Melih Metin\source\repos\ATM\Personelveritabani\obj\Debug\Personelveritabani.exe
+C:\Users\Melih Metin\source\repos\ATM\Personelveritabani\obj\Debug\Personelveritabani.pdb
+C:\Users\Melih Metin\source\repos\ATM\Personelveritabani\obj\Debug\Personelveritabani.Form2.resources
+C:\Users\Melih Metin\source\repos\ATM\Personelveritabani\obj\Debug\Personelveritabani.Form3.resources
+C:\Users\Melih Metin\source\repos\ATM\Personelveritabani\obj\Debug\Personelveritabani.chart.resources
+C:\Users\Melih Metin\source\repos\ATM\Personelveritabani\obj\Debug\Personelveritabani.anaform.resources
+C:\Users\Melih Metin\source\repos\ATM\Personelveritabani\obj\Debug\Personelveritabani.Frmgiris.resources
